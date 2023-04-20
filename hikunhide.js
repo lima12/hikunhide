@@ -24,6 +24,7 @@
 // @require      https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @updateURL    https://raw.githubusercontent.com/lima12/hikunhide/main/hikunhide.js
+// @source       https://github.com/lima12/hikunhide
 // @grant        none
 // @author       Haruko
 // ==/UserScript==
