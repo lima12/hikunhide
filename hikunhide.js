@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hikunhide
 // @namespace    hikunhide
-// @version      1.2
+// @version      1.3
 // @description  Removes the ng-hide class from a specific element on Metrodist CMS pages.
 // @exclude      https://cms1.metrodist.net/#/portal
 // @exclude      https://cms2.metrodist.net/#/portal
