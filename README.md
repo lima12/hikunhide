@@ -13,8 +13,11 @@ For CMS usage only! the script will automatic modify the html of the cms page to
 
 ## Credits
 Haruko 
+
 GPT-4
+
 tampermonkey dev
+
 Hikvision (for making the problem and not make it too hard for me!)
 
 ## License
