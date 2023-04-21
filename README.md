@@ -5,8 +5,9 @@
 
 ## Installation
 1. Install tampermonkey from https://www.tampermonkey.net/
-2. click on this URL and tampermonkey shall prompt you to install! 
-3. profit
+2. go to tamper monkey extension bar
+4. add the script via this URL [https://raw.githubusercontent.com/lima12/hikunhide/main/hikunhide.js](https://raw.githubusercontent.com/lima12/hikunhide/main/hikunhide.js) 
+3. No profit because im bad as counting.
 
 ## Usage
 For CMS usage only! the script will automatic modify the html of the cms page to unhide hikvision 'hidden' feature
