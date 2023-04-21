@@ -1,5 +1,5 @@
 # hikunhide
-to unhide this!!! [![ng-hide](https://i.imgur.com/QnQl3Ob.png)]
+to unhide this!!! ![ng-hide](https://i.imgur.com/QnQl3Ob.png)
 
 ## Hikunhide
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
