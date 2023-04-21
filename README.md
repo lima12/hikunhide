@@ -13,11 +13,9 @@
 For CMS usage only! the script will automatic modify the html of the cms page to unhide hikvision 'hidden' feature
 
 ## Credits
-Haruko 
+GPT-4 (for writing the script, as im too lazy to write it at 4pm!)
 
-GPT-4
-
-tampermonkey dev
+tampermonkey dev (for making such a GOAT tools)
 
 Hikvision (for making the problem and not make it too hard for me!)
 
